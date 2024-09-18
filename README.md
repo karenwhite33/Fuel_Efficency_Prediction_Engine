@@ -1,4 +1,4 @@
-#Fuel Efficency Prediction Engine
+# Fuel Efficency Prediction Engine
 
 Built a linear regression model using the Auto MPG dataset to predict vehicle fuel efficiency. Utilized matrix operations and gradient descent to optimize predictions and visualized results against real-world data.
 
